@@ -2,7 +2,7 @@ package com.shgx.queue.service;
 
 /**
  * @author: guangxush
- * @create: 2019/08/24
+ * @create: 2019/08/25
  */
-public class ThreadPoolService {
+public class ThreadPoolManager {
 }
