@@ -1,4 +1,4 @@
-package com.shgx.queue.service;
+package com.shgx.queue.util;
 
 import com.shgx.queue.util.BasicThreadPool;
 import com.shgx.queue.util.ThreadPool;
