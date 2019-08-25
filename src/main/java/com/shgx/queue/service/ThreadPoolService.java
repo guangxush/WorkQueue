@@ -34,7 +34,7 @@ public class ThreadPoolService implements Runnable{
         //线程阻塞
         /*try {
             Thread.sleep(1000);
-            System.out.println("多线程已经处理订单插入系统，订单号："+businessNo);
+            log.info("多线程已经处理订单插入系统，订单号："+businessNo);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }*/
