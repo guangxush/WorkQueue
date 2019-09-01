@@ -13,7 +13,7 @@
 - 拒绝策略是将任务提交到kafka消息队列中进行存储
 3. 等到线程池中的任务较少或者夜间用户访问较少的时候，从消息队列中拉取请求重新进行处理
 4. 如果处理失败将任务重新加入到消息队列中，等待一定的时机进行重试。
-![项目框架](https://github.com/guangxush/iTechHeart/blob/master/image/WorkQueue/workqueue.png0)
+![项目框架](https://github.com/guangxush/iTechHeart/blob/master/image/WorkQueue/workqueue.png)
 
 ## 代码实现
 
